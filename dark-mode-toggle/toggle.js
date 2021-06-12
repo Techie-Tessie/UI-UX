@@ -1,4 +1,5 @@
 //changes colour scheme to dark mode when toggle switch checked
+//additional note - semicolons aren't necessary in JS but are good practice!
 function darkMode()
 {
 				var checkBox = document.getElementById("toggle");
